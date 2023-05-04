@@ -1,5 +1,7 @@
-// Autor: Martin Flasar
+// Author: Martin Flasar
 // Date: 5/3/2023
+// LeetCode: 2621. Sleep
+// URL: https://leetcode.com/problems/sleep/
 //
 
 async function sleep(ms) {

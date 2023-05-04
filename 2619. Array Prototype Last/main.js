@@ -1,5 +1,7 @@
-// Autor: Martin Flasar
+// Author: Martin Flasar
 // Date: 5/3/2023
+// LeetCode: 2619. Array Prototype Last
+// URL: https://leetcode.com/problems/array-prototype-last/
 //
 
 Array.prototype.last = function() {

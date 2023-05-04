@@ -1,5 +1,7 @@
-// Autor: Martin Flasar
+// Author: Martin Flasar
 // Date: 5/3/2023
+// LeetCode: 2215. Find the Difference of Two Arrays
+// URL: https://leetcode.com/problems/find-the-difference-of-two-arrays/
 //
 
 const nums1 = [-57,6,-88,-62];

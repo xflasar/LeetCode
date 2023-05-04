@@ -1,5 +1,7 @@
-// Autor: Martin Flasar
+// Author: Martin Flasar
 // Date: 5/3/2023
+// LeetCode: 2634. Filter Elements from Array
+// URL: https://leetcode.com/problems/filter-elements-from-array/
 //
 
 var filter = function(arr, fn) {
